@@ -1,4 +1,8 @@
-## Hi there 👋
+<div aling="center">
+    <h1 aling="center">
+        Hi, I'm Oscar Giraldo
+    </h1>
+</div>
 
 <!--
 **oscarmauriciogiraldo/oscarmauriciogiraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
