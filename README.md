@@ -4,6 +4,8 @@
     </h1>
 </div>
 
+![https://github.com/oscarmauriciogiraldo](./profile.png)
+
 ## About me
 
 Systems and Computer Engineer, with additional training in Java and JavaScript programming, English (A1 level). 5 years and 5 months of work experience in web development.
