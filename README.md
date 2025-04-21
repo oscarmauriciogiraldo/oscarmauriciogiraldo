@@ -1,3 +1,7 @@
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Oscar+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
+
 <div align="center">
     <h1 align="center">
         Hi, I'm Oscar Giraldo
@@ -13,6 +17,12 @@ Systems and Computer Engineer, with additional training in Java and JavaScript p
 Skills and knowledge in handling frontend development frameworks and libraries (Vue, Angular, React). Specialized in designing and developing user interfaces with pure HTML and CSS, as well as CSS libraries (Tailwind, Quasar, PrimeNG, and Bootstrap). Experience in consuming APIs and mocking data, and working with Agile Scrum methodologies using Jira and Azure DevOps.
 
 Strong analytical skills, creative, competitive, with self-control, planning, and organizational abilities. I enjoy taking on new challenges and adapt easily. Passionate about problem-solving and best development practices, I strive to follow the standards of each framework I work with.
+
+## Skills
+
+
+
+
 
 
 
