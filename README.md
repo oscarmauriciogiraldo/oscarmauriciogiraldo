@@ -24,8 +24,19 @@ Strong analytical skills, creative, competitive, with self-control, planning, an
 - **Languages**:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,php&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,cs,php&perline=14" />
   </a>
+
+- **Front-End Development**:
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,vue,react,nextjs,tailwind&perline=14" />
+  </a>  
+
+- **Softwares and Tools**:
+
+
+
 </p>
 <!-- <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" /> -->
 
