@@ -1,11 +1,8 @@
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Oscar+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</p>
-
 <div align="center">
-    <h1 align="center">
-        Hi, I'm Oscar Giraldo
-    </h1>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=ffffff&width=370&height=100&lines=Hi+%2C+I'm+Oscar+Giraldo+%F0%9F%91%8B" alt="Typing SVG" />
+    </a>
+    
 </div>
 
 ![https://github.com/oscarmauriciogiraldo](./profile.png)
