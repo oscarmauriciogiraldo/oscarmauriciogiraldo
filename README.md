@@ -50,6 +50,14 @@ Strong analytical skills, creative, competitive, with self-control, planning, an
 </p>
 
 
+## Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/oscar-mauricio-giraldo-herrera">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</P>
+
 <!-- <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" /> -->
 
 
