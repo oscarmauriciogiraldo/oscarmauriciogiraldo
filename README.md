@@ -30,19 +30,19 @@ Strong analytical skills, creative, competitive, with self-control, planning, an
 - **Front-End Development**:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,vue,react,nextjs,threejs,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,vue,react,nextjs,threejs,tailwind,bootstrap&perline=14" />
   </a>  
 
 - **Back-End Development**:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,laravel,flask,django&perline=14" />
+    <img src="https://skillicons.dev/icons?i=spring,laravel,flask,django,dotnet&perline=14" />
   </a> 
 
 - **Softwares and Tools**:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,laravel,flask,django&perline=14" />
+    <img src="https://skillicons.dev/icons?i=vscode,vite,visualstudio,vercel,postman,pinia,npm,nodejs,notion,maven,linux,jenkins,figma,express,azure,docker,androidstudio,anaconda,arduino&perline=14" />
   </a>
 
 
