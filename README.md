@@ -8,6 +8,15 @@
 
 ## About me
 
+- 🔭 I’m currently working on my side projects, building my portfolio
+- 🌱 I’m frontend techonolgies and keeping improving my skills on Data analysis, programming with Python, Angular, Vue, React, Next.js, .Net
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
+
 ## Professional Profile
 
 Systems and Computer Engineer, with additional training in Java and JavaScript programming, English (A1 level). 5 years and 5 months of work experience in web development.
@@ -55,6 +64,10 @@ Strong analytical skills, creative, competitive, with self-control, planning, an
 <p align="center">
   <a href="https://www.linkedin.com/in/oscar-mauricio-giraldo-herrera">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </P>
 
