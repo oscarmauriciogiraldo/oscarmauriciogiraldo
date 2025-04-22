@@ -16,7 +16,7 @@ Skills and knowledge in handling frontend development frameworks and libraries (
 
 Strong analytical skills, creative, competitive, with self-control, planning, and organizational abilities. I enjoy taking on new challenges and adapt easily. Passionate about problem-solving and best development practices, I strive to follow the standards of each framework I work with.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Tech stack Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Tech stack Skills</b>
 
 <!--tech stack icons-->
 <p align="center">
