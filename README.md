@@ -77,11 +77,19 @@ Strong analytical skills, creative, competitive, with self-control, planning, an
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oscar-mauricio-giraldo-herrera">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
 
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <!-- <a href="https://www.linkedin.com/in/oscar-mauricio-giraldo-herrera">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a> -->
+
+  <a href="oscardan@utp.edu.co">
+    <img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+
+  <a href="">
+    <img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/>
   </a>
 </P>
 
