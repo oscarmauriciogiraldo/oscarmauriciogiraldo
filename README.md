@@ -12,6 +12,12 @@
 
 ## About me
 
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+ <p align="left">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-dodgerblue" />
+  <!-- <img src="https://img.shields.io/badge/Languages-English-dodgerblue" /> -->
+</p>
+
 - 🔭 I’m currently working on my side projects, building my portfolio
 - 🌱 I’m frontend techonolgies and keeping improving my skills on Data analysis, programming with Python, Angular, Vue, React, Next.js, .Net
 <!-- - 👯 I’m looking to collaborate on ...
