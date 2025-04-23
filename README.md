@@ -17,6 +17,7 @@
   <!-- ![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=oscarmauriciogiraldo&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10) -->
   <img align="right"  height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmauriciogiraldo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 </picture>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-dodgerblue" />
   <!-- <img src="https://img.shields.io/badge/Languages-English-dodgerblue" /> -->
@@ -33,9 +34,9 @@
 
 ## Professional Profile
 
-Systems and Computer Engineer, with additional training in Java and JavaScript programming, English (A1 level). 5 years and 5 months of work experience in web development.
+Systems and Computer Engineer. 5 years and 5 months of work experience in web development.
 
-Skills and knowledge in handling frontend development frameworks and libraries (Vue, Angular, React). Specialized in designing and developing user interfaces with pure HTML and CSS, as well as CSS libraries (Tailwind, Quasar, PrimeNG, and Bootstrap). Experience in consuming APIs and mocking data, and working with Agile Scrum methodologies using Jira and Azure DevOps.
+Skills and knowledge in handling frontend development frameworks and libraries. Experience in consuming APIs and mocking data, and working with Agile Scrum methodologies using Jira and Azure DevOps.
 
 Strong analytical skills, creative, competitive, with self-control, planning, and organizational abilities. I enjoy taking on new challenges and adapt easily. Passionate about problem-solving and best development practices, I strive to follow the standards of each framework I work with.
 
