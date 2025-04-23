@@ -12,8 +12,11 @@
 
 ## About me
 
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
- <p align="left">
+<picture>
+  <!-- <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px> -->
+  [![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=oscarmauriciogiraldo&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+</picture>
+<p align="left">
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-dodgerblue" />
   <!-- <img src="https://img.shields.io/badge/Languages-English-dodgerblue" /> -->
 </p>
