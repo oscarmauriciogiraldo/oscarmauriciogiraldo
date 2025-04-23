@@ -4,6 +4,10 @@
     </a>
 </div>
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=oscarmauriciogiraldo&color=brightgreen" alt="watching_count" />
+</p>
+
 ![https://github.com/oscarmauriciogiraldo](./profile.png)
 
 ## About me
