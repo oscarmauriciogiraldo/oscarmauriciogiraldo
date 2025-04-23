@@ -15,7 +15,7 @@
 <picture>
   <!-- <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px> -->
   <!-- ![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=oscarmauriciogiraldo&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10) -->
-  <img align="right"  height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=viralbhadeshiya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img align="right"  height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmauriciogiraldo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 </picture>
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-dodgerblue" />
