@@ -68,12 +68,25 @@ Strong analytical skills, creative, competitive, with self-control, planning, an
     <img src="https://skillicons.dev/icons?i=vscode,vite,visualstudio,vercel,postman,pinia,npm,nodejs,notion,maven,linux,jenkins,figma,express,azure,docker,androidstudio,anaconda,arduino&perline=14" />
   </a>
 
+- **🗃 &nbsp;Databases**
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+- **🧰 &nbsp;Version Controll**
+
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+  ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+
+
 
 
 </p>
 
 
-## Connect with Me
+## 🤝🏻 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oscar-mauricio-giraldo-herrera">
